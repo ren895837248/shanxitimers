@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK17"/>
+	<classpathentry kind="lib" path="lib/alljars.jar"/>
+	<classpathentry kind="lib" path="lib/axis.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.1.23.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="lib/noggit-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/proxool-0.9.0RC3.jar"/>
+	<classpathentry kind="lib" path="lib/pub.jar"/>
+	<classpathentry kind="lib" path="lib/saaj.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="lib/solr-solrj-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/spsejb.jar"/>
+	<classpathentry kind="lib" path="lib/UbiSocketCommonSchema.jar"/>
+	<classpathentry kind="lib" path="lib/vo.jar"/>
+	<classpathentry kind="lib" path="lib/weblogic.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
